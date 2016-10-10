@@ -10,7 +10,7 @@ iOS, Swift, Objective-C, Cocoa Pods
 
 Here's a walkthrough of implemented user stories:
 
-![gallery](https://cloud.githubusercontent.com/assets/7720015/19251052/73780ff0-8f0b-11e6-8203-2a9606b578aa.gif)
+![gallery](https://cloud.githubusercontent.com/assets/7720015/19251285/9a6d1ab4-8f0c-11e6-9fe1-2f32d209a7cf.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
